@@ -1,6 +1,6 @@
-import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.io.IOException;
 
 public class Recipe {
     final String RECIPE_DIR = "./recipes/";
@@ -16,7 +16,7 @@ public class Recipe {
 
         // 引数必須
         if (args.length < 1) {
-            System.out.println("ぶぶ漬け");
+            System.out.println("引数にファイルをレシピをしてください。(「don」 or 「touhu」 or 「riceomlet」)");
             return;
         }
 
