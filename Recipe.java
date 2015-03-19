@@ -11,7 +11,7 @@ public class Recipe {
      */
     public static void main(String[] args) throws IOException {
         String recipeName;
-        String recipeData;
+        String recipeDatas[];
         Recipe recipe;
 
         // 引数必須
@@ -22,26 +22,28 @@ public class Recipe {
 
         recipeName = args[0];
         recipe = new Recipe();
-        recipeData = recipe.loadRecipe(recipeName);
+        recipeDatas = recipe.loadRecipe(recipeName);
 
-        System.out.println(recipeData);
+        for (String recipeData : recipeDatas) {
+            System.out.println(recipeData);
+        }
     }
 
     /**
      * レシピファイルを読み込む
      * @param name レシピファイル名
      */
-    public String loadRecipe(String name) throws IOException {
+    public String[] loadRecipe(String name) throws IOException {
         BufferedReader reader;
         String loadedRecipe = "";
         String tmp;
 
         reader = new BufferedReader(new FileReader(getRecipePath(name)));
         while ((tmp = reader.readLine()) != null) {
-            loadedRecipe += tmp;
+            loadedRecipe += tmp + "\n";
         }
 
-        return loadedRecipe;
+        return loadedRecipe.split("\n");
     }
 
     /**
