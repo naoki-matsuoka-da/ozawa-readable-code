@@ -3,7 +3,9 @@
 プロジェクトのトップディレクトリで以下のコマンドを順に実行。
 
 javac Recipe.java
-java Recipe
+java Recipe [レシピ名]
+
+現時点で指定可能なレシピは「オムライス」のみです。
 
 * Memo
 
