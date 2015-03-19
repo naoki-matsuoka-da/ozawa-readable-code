@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/intl" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/validator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/twig-bridge" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/security-csrf" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/security-core" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/locale" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/browser-kit" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/property-access" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/form" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/options-resolver" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/intl" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/validator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/twig-bridge" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/security-csrf" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/security-core" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/locale" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/pimple/pimple" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/filesystem" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/silex/silex" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/browser-kit" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/twig/twig" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/config" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/property-access" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/form" />
+          <root url="file://$MODULE_DIR$/../../ispsite_member_setting/account-setting/vendor/symfony/options-resolver" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
