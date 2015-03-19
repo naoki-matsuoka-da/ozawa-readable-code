@@ -1,3 +1,12 @@
+* プログラム実行手順
+
+プロジェクトのトップディレクトリで以下のコマンドを順に実行。
+
+javac Recipe.java
+java Recipe
+
+* Memo
+
 My name is OZAWA.
 
 Java skill: ★★★☆☆
